@@ -6,22 +6,49 @@ I enjoy building personal products from early problem discovery through design, 
 
 ## What I'm building
 
-### [YouTube Digest](https://github.com/xandrabai/youtube-digest)
+### 🎬 YouTube Digest — active learning for long YouTube videos
 
-A browser extension that helps people learn from long, content-dense YouTube videos without constantly switching between the video, notes, and other AI tools.
+A browser extension that helps learners get more from long, content-dense YouTube videos without constantly switching between the video, notes, and AI tools.
 
-With YouTube Digest, learners can:
+* Select words or phrases in a transcript for AI-powered explanations.
+* Take notes in a sidebar and use keyboard shortcuts to save quotes quickly.
+* Jump from a saved quote back to its exact timestamp in the video.
+* Ask an AI assistant questions grounded in both the transcript and personal notes.
+* Export notes as Markdown or save them to Google Drive.
 
-* Select words or phrases in a video transcript to get AI-powered explanations.
-* Take notes in a sidebar while watching.
-* Use keyboard shortcuts to save useful quotes quickly.
-* Click a saved quote to jump back to the exact moment it appeared in the video.
-* Ask a context-aware AI assistant questions grounded in the video transcript and personal notes.
-* Download notes as Markdown files or save them to Google Drive.
+[Try it →]([YOUR-YOUTUBE-DIGEST-LINK](https://github.com/xandrabai/youtube-digest))
 
-The goal is to make video learning more active, organized, and efficient.
+### 🗂️ Google File Cleaner — safer Google Drive cleanup at scale
 
-🔗 [Try YouTube Digest](https://github.com/xandrabai/youtube-digest)
+A Google Drive management tool designed to help University of Michigan users review, filter, and bulk-manage their files without repetitive manual work.
+
+* Uses cached metadata so large Drives load efficiently, without storing file contents.
+* Helps users filter files by name, size, last modified date, ownership, and permission status.
+* Identifies possible duplicates using exact filename and file size.
+* Supports user-initiated bulk actions: move files, move files to Trash, and manage sharing permissions.
+* Prioritizes safety through action previews, explicit confirmation, batch processing, and downloadable completion reports.
+
+*Currently scoped to My Drive; all changes require user confirmation.*
+*If you don't have a University of Michigan Google account, use this test account to try it out:  Email address: coe-mdp-mgenie@umich.edu Password: w9J0nqb6Am6p8GVGdHPY"
+
+[View project →](https://mgenie-ch.engin.umich.edu/login)
+
+### 🎨 Emotion Canvas — nonverbal support for student well-being
+
+A digital art-therapy-inspired experience for university students who may find it difficult to articulate negative emotions through text alone.
+
+Emotion Canvas uses artwork-guided interaction to give students a lower-pressure way to reflect on their emotions, explore what they may be feeling, and receive supportive guidance.
+
+[View project →](https://emotion-canvas-one.vercel.app/) · [View code →](https://github.com/xandrabai/Emotion-Canvas)
+
+### 📨 Newsletter Digest Agent — less information overload, more signal
+
+An AI agent for people who want to stay informed about AI and product without spending hours processing newsletters.
+
+It retrieves relevant newsletters from Gmail, separates useful content from noise, and creates summaries in a format users can customize around their interests and available time.
+
+[View project →](YOUR-NEWSLETTER-AGENT-LINK) · [View code →](YOUR-NEWSLETTER-AGENT-GITHUB-LINK)
+
 
 ## Let's connect
 
