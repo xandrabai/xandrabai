@@ -16,7 +16,7 @@ A browser extension that helps learners get more from long, content-dense YouTub
 * Ask an AI assistant questions grounded in both the transcript and personal notes.
 * Export notes as Markdown or save them to Google Drive.
 
-[Try it →](https://github.com/xandrabai/youtube-digest)
+[Try it →](https://github.com/xandrabai/youtube-digest)· [View code →](https://github.com/xandrabai/youtube-digest)
 
 ### 🗂️ Google File Cleaner — safer Google Drive cleanup at scale
 
@@ -31,7 +31,7 @@ A Google Drive management tool designed to help University of Michigan users rev
 *Currently scoped to My Drive; all changes require user confirmation.*
 *If you don't have a University of Michigan Google account, use this test account to try it out:  Email address: coe-mdp-mgenie@umich.edu Password: w9J0nqb6Am6p8GVGdHPY"
 
-[View project →](https://mgenie-ch.engin.umich.edu/login)
+[Try it →](https://mgenie-ch.engin.umich.edu/login)· [View code →](https://github.com/xandrabai/Emotion-Canvas)
 
 ### 🎨 Emotion Canvas — nonverbal support for student well-being
 
@@ -39,7 +39,7 @@ A digital art-therapy-inspired experience for university students who may find i
 
 Emotion Canvas uses artwork-guided interaction to give students a lower-pressure way to reflect on their emotions, explore what they may be feeling, and receive supportive guidance.
 
-[View project →](https://emotion-canvas-one.vercel.app/) · [View code →](https://github.com/xandrabai/Emotion-Canvas)
+[Try it →](https://emotion-canvas-one.vercel.app/) · [View code →](https://github.com/xandrabai/Emotion-Canvas)
 
 ### 📨 Newsletter Digest Agent — less information overload, more signal
 
