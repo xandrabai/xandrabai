@@ -16,7 +16,7 @@ A browser extension that helps learners get more from long, content-dense YouTub
 * Ask an AI assistant questions grounded in both the transcript and personal notes.
 * Export notes as Markdown or save them to Google Drive.
 
-[Try it →]([YOUR-YOUTUBE-DIGEST-LINK](https://github.com/xandrabai/youtube-digest))
+[Try it →](https://github.com/xandrabai/youtube-digest)
 
 ### 🗂️ Google File Cleaner — safer Google Drive cleanup at scale
 
